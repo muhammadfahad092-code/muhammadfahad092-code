@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hey, I'm a Computer Science Student 👋
 
-<!--
-**muhammadfahad092-code/muhammadfahad092-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | BSCS Student | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the **University of Wah, Pakistan**, passionate about programming, software development, cybersecurity, and understanding how technology works under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on strengthening my programming fundamentals, developing practical skills, and building real-world projects.
+
+I believe in **learning by building, understanding before implementing, and writing code rather than blindly copying it.**
+
+---
+
+## 🚀 Currently Working On
+
+- 🌐 Learning Full-Stack Web Development.
+- 🐍 Exploring Python and Django for backend development.
+- 🎨 Improving my HTML, CSS, JavaScript, and Bootstrap skills.
+- 🐧 Learning Linux and Operating Systems.
+- 🧠 Strengthening Data Structures, Algorithms, and Computer Science fundamentals.
+- 🔐 Exploring Cybersecurity and Networking.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- Python
+- JavaScript
+- C / C++
+
+### Frontend Development
+- HTML5
+- CSS3
+- Bootstrap 5
+
+### Backend Development
+- Django
+- REST APIs
+
+### Tools & Environment
+- Git & GitHub
+- Visual Studio Code
+- Linux / Ubuntu
+- Windows
+
+---
+
+## 📚 Currently Learning
+
+| Area | Focus |
+|---|---|
+| Web Development | HTML, CSS, JavaScript, Bootstrap, Django |
+| Programming | Python, problem solving |
+| Computer Science | DSA, Algorithms, Operating Systems |
+| Computer Architecture | MIPS Assembly |
+| Cybersecurity | Networking and security fundamentals |
+| Development Tools | Git, GitHub, Linux |
+
+---
+
+## 🎯 My Goals
+
+- Build meaningful real-world software projects.
+- Become confident in writing code independently.
+- Develop strong problem-solving skills.
+- Understand computer systems from the ground up.
+- Contribute to open-source projects.
+- Explore cybersecurity and software engineering.
+- Become a developer who understands the code they write.
+
+---
+
+## 📈 My Philosophy
+
+> Don't just make it work. Understand why it works.
+
+I'm here to learn, experiment, break things, fix bugs, and improve one project at a time.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers, exploring new technologies, and collaborating on interesting projects.
+
+**Thanks for visiting my profile!** ⭐
