@@ -26,6 +26,7 @@ I believe in **learning by building, understanding before implementing, and writ
 - Python
 - JavaScript
 - C++
+- Java
 
 ### Frontend Development
 - HTML5
