@@ -17,7 +17,6 @@ I believe in **learning by building, understanding before implementing, and writ
 - 🎨 Improving my HTML, CSS, JavaScript, and Bootstrap skills.
 - 🐧 Learning Linux and Operating Systems.
 - 🧠 Strengthening Data Structures, Algorithms, and Computer Science fundamentals.
-- 🔐 Exploring Cybersecurity and Networking.
 
 ---
 
@@ -26,7 +25,7 @@ I believe in **learning by building, understanding before implementing, and writ
 ### Languages
 - Python
 - JavaScript
-- C / C++
+- C++
 
 ### Frontend Development
 - HTML5
@@ -53,7 +52,6 @@ I believe in **learning by building, understanding before implementing, and writ
 | Programming | Python, problem solving |
 | Computer Science | DSA, Algorithms, Operating Systems |
 | Computer Architecture | MIPS Assembly |
-| Cybersecurity | Networking and security fundamentals |
 | Development Tools | Git, GitHub, Linux |
 
 ---
@@ -65,7 +63,6 @@ I believe in **learning by building, understanding before implementing, and writ
 - Develop strong problem-solving skills.
 - Understand computer systems from the ground up.
 - Contribute to open-source projects.
-- Explore cybersecurity and software engineering.
 - Become a developer who understands the code they write.
 
 ---
